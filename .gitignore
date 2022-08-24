@@ -1,52 +1,119 @@
-# Prerequisites
-*.d
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+* .suo
+* .user
+* .sln.docstates
 
-# Linker output
-*.ilk
-*.map
-*.exp
 
-# Precompiled Headers
-*.gch
-*.pch
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+[ Dd ] ebug /
+[ Rr ] elease /
+x64 /
+[ Bb ] em /
+[ Oo ] bj /
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Resultados do teste MSTest
+[ Tt ] est [ Rr ] resultado * /
+[ Bb ] uild [ Ll ] og. *
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+* _i.c
+* _p.c
+* _i.h
+* .ilk
+* .meta
+* .obj
+* .pch
+* .pdb
+* .pgc
+* .pgd
+* .rsp
+* .sbr
+* .tlb
+* .tli
+* .tlh
+* .tmp
+* .tmp_proj
+* .log
+* .vspscc
+* .vssscc
+.builds
+* .pidb
+* .log
+* .svclog
+* .scc
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+ipch /
+* .aps
+* .ncb
+* .opensdf
+* .sdf
+* .cachefile
+
+
+* .psess
+* .vsp
+* .vspx
+
+
+* .gpState
+
+
+_ReSharper * /
+* . [ Rr ] e [ Ss ] harpista
+* .DotSettings.user
+
+
+
+
+
+* .Publicar.xml
+* .pubxml
+* .azurePubxml
+
+
+! pacotes /repositories.config _
+
+
+csx /
+* .build.csdef
+
+
+Pacotes de aplicativos /
+
+
+SQL /
+* .Cache
+ClienteBin /
+[ Ss ] tipo [ Cc ] op. *
+! [ Ss ] tipo [ Cc ] op.targets
+~$ *
+* ~
+* .dbmdl
+* . [ Pp ] ublish.xml
+
+* .publishsettings
+
+Código_gerado /
+
+_UpgradeReport_Files /
+Cópia de segurança * /
+UpgradeLog * .XML
+UpgradeLog * .htm
+
+
+App_Data / * .mdf
+App_Data / * .ldf
+
+=======================
+
+Thumbs.db
+ehthumbs.db
+
+
+Desktop.ini
+
+$RECYCLE.BIN /
+
+.DS_Store
+
+_NCrunch *
